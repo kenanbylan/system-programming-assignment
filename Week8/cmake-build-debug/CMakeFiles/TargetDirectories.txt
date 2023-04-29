@@ -1,0 +1,3 @@
+/Users/kenan/Desktop/All/Marmara University/3.Sinif 2.Donem/Sistem Programlama/HaftalıkOdevCalismalari/Week8/cmake-build-debug/CMakeFiles/Week8.dir
+/Users/kenan/Desktop/All/Marmara University/3.Sinif 2.Donem/Sistem Programlama/HaftalıkOdevCalismalari/Week8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kenan/Desktop/All/Marmara University/3.Sinif 2.Donem/Sistem Programlama/HaftalıkOdevCalismalari/Week8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

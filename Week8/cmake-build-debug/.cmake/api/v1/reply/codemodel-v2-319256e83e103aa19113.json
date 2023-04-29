@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week8",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Week8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week8-Debug-130e1a0f602eab73e87f.json",
+					"name" : "Week8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kenan/Desktop/All/Marmara University/3.Sinif 2.Donem/Sistem Programlama/Haftal\u0131kOdevCalismalari/Week8/cmake-build-debug",
+		"source" : "/Users/kenan/Desktop/All/Marmara University/3.Sinif 2.Donem/Sistem Programlama/Haftal\u0131kOdevCalismalari/Week8"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
